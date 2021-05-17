@@ -1,0 +1,9 @@
+﻿  Building 'Keylogger' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\Keylogger.inf
+  Stamping [Version] section with DriverVer=05/17/2021,23.23.43.23
+  log.cpp
+  Keylogger.vcxproj -> C:\Users\Daniel\source\repos\Keylogger\x64\Debug\Keylogger.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Daniel\source\repos\Keylogger\x64\Debug\Keylogger.sys
+  
+  Driver is 'Universal'.
