@@ -52,5 +52,6 @@ It might look fine, and unsuspicious well..., if you have some experience with w
 
 * Extract scan codes to a file.
 * Read scan codes from user mode.
+* Add more information here(readme).
 
 **Note!** This project created only for education purpose's, I don't encourage anyone to use this sample for malicious activity. Thank you, have a fun.
